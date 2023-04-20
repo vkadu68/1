@@ -6,7 +6,7 @@ To get started with the project, clone the repository and install the required p
 
 bash
 Copy code
-git clone https://github.com/your-username/titanic-survivor-prediction.git
+git clone https://github.com/vkadu68/titanic-survivor-prediction.git
 cd titanic-survivor-prediction
 pip install -r requirements.txt
 Data
