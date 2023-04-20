@@ -5,10 +5,15 @@ This project aims to predict the survival probability of Titanic passengers usin
 To get started with the project, clone the repository and install the required packages. You can do this using the following commands:
 
 bash
+
 Copy code
+
 git clone https://github.com/vkadu68/titanic-survivor-prediction.git
+
 cd titanic-survivor-prediction
+
 pip install -r requirements.txt
+
 Data
 The data used in this project is available on Kaggle. The data contains information about the passengers, including their age, gender, class, and whether they survived or not.
 
